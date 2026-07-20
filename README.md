@@ -10,7 +10,7 @@ I have been working as Data Scientis, developing expertise in hardware and softw
 * 🌍  I'm based in Islamabad, PAKISTAN
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/pk/farooq.writer)
 * ✉️  You can contact me at [Mr.Muhammad Farooq](mfarooq28@gmx.com)
-* 🚀  I'm currently working on [APOS (Autonomous Production Operating System)](https://www.robidia.de/)
+* 🚀  I'm currently working on [PhD Thesis, Text Data Augmentation)](https://www.iiu.edu.pk/computing/)
 * 🤝  I'm open to collaborating on Deep learning, Machine Learning, Robotics projects
 
 <a href="https://www.github.com/Saad-Naseer" target="_blank" rel="noreferrer"><img
