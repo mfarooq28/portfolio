@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Farooq
 ===================================================================================================================================
 
-Software Developer
+Data Scientist/Analyst
 ------------------
 
 I have been working as Data Scientis, developing expertise in hardware and software for robotic systems.  Currently, I am focused on building a Media AI platform that enables users to control devices such as cameras, gimbals, sliders, pedestals, switchers, lights, and teleprompters - both autonomously and manually, in any combination. This platform is designed to empower creators by seamlessly enhancing their content production.
