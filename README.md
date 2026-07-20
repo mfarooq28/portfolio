@@ -7,9 +7,9 @@ Data Scientist/Analyst
 
 I have been working as Data Scientis, developing expertise in hardware and software for robotic systems.  Currently, I am focused on building a Media AI platform that enables users to control devices such as cameras, gimbals, sliders, pedestals, switchers, lights, and teleprompters - both autonomously and manually, in any combination. This platform is designed to empower creators by seamlessly enhancing their content production.
 
-* 🌍  I'm based in köln
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/saad-naseer-2989b41a6/)
-* ✉️  You can contact me at [saadrocky46@gmail.com](mailto:saadrocky46@gmail.com)
+* 🌍  I'm based in Islamabad, PAKISTAN
+* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/pk/farooq.writer)
+* ✉️  You can contact me at [Mr.Muhammad Farooq](mfarooq28@gmx.com)
 * 🚀  I'm currently working on [APOS (Autonomous Production Operating System)](https://www.robidia.de/)
 * 🤝  I'm open to collaborating on Deep learning, Machine Learning, Robotics projects
 
